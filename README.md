@@ -5,7 +5,7 @@ I'm passionate about web development and hype tech. You can see some of my worki
 
 In my free time I like to watch movies and series (🎞️), to travel (🛫), to play (and watch) CS GO (👮👳), to listen to music and to play piano (🎵🎹) and eventually I like to cook great food and drink some good beer (🍺).
 
-Would you like to find me?
+Would you like to find more?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-murillo-212121)](https://medium.com/@murillo.vieiraesilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2979ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-vieira)](https://www.linkedin.com/in/murillo-vieira)
