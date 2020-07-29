@@ -1,7 +1,7 @@
 ### Hi there! 😁
 
 I'm Murillo Silva from Brazil (🇧🇷). I've been working as Front-End Developer since 2016 and currently I'm Working at [Nectar CRM](https://nectarcrm.com.br/).
-I'm passionate about web development and hype tech. You can see some of my working projects at [murillo.dev.br](murilloves.github.io/dev).
+I'm passionate about web development and hype tech. You can see some of my working projects at [murillo.dev.br](https://murilloves.github.io/dev).
 
 In my free time I like to watch movies and series (🎞️), to travel (🛫), to play (and watch) CS GO (👮👳), to listen to music and to play piano (🎵🎹) and eventually I like to cook great food and drink some good beer (🍺).
 
